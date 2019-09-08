@@ -1,0 +1,68 @@
+
+#mainPage{
+	background-color: white;
+	/*display: grid;*/
+}
+
+.header {
+	/*grid-area: header;*/
+	background-color: #00FFFF;
+}
+
+
+#profile {
+	background-color: #6495ED;
+	/*grid-area: footer;*/
+	display: inline-block;
+
+}
+
+#tweets {
+	background-color: #FFD700;
+	/*grid-area: right;*/
+	display: inline-block;
+
+}
+
+#mini{
+	/*width: 581px;
+    height: 528px;*/
+    width: 40%;
+    height: 100%;
+}
+#logo{
+	width:150px;
+	height:150px;
+}
+
+.headDiv{
+	display: inline-block;
+	background-color: blue;
+	width:33%;
+	align-self: center;
+	/*margin-bottom: 33%;*/
+	height: 33%
+
+
+
+}
+#center{
+
+	display: inline-block;
+	width:33%;
+	height: 100%
+
+}
+#left{
+	display: inline-block;
+	width:33%;
+	height: 100%
+
+}
+
+#more{
+	/*padding-top: 40px;
+	margin-right: 30px;*/
+	
+}
+
